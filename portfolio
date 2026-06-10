@@ -1,0 +1,12 @@
+<column-set gutter="1" mobile-gutter="3rem"><column-unit slot="0">
+    <h1>wSide A
+ &nbsp; &nbsp; &nbsp;<a href="repack.html" style="display:block; font-size:inherit; font-weight:inherit; text-decoration:none;">48HR Repack Challenge</a>
+      <a href="hexbug.html" style="display:block; font-size:inherit; font-weight:inherit; text-decoration:none;">Hexbug Reverse Engineering Design</a>
+      <a href="paddle.html" style="display:block; font-size:inherit; font-weight:inherit; text-decoration:none;">Modular Ping Pong Paddle</a>
+    </h1>
+  </column-unit><column-unit slot="1">
+    <h1>Side B
+ &nbsp; &nbsp; &nbsp;<span style="display:block;">LinkedIn</span>
+      <span style="display:block;">Email</span>
+      <span style="display:block;">Resume</span>
+    </h1></column-unit></column-set>
